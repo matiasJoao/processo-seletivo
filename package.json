@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "react-inner-html": "^1.0.1"
   }
 }
